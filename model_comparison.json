@@ -1,0 +1,152 @@
+[
+    {
+        "test_case": "Write a professional email requesting leave",
+        "model_a_output": "Model A Response: Write a professional email requesting leave",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Write a professional email requesting leave\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 1.22,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 5.04,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Generate a cold email for job application",
+        "model_a_output": "Model A Response: Generate a cold email for job application",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Generate a cold email for job application\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 1.18,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 5.0,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Apology email for missing deadline",
+        "model_a_output": "Model A Response: Apology email for missing deadline",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Apology email for missing deadline\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 1.04,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.86,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Meeting request email",
+        "model_a_output": "Model A Response: Meeting request email",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Meeting request email\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.78,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.6,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Follow-up email after interview",
+        "model_a_output": "Model A Response: Follow-up email after interview",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Follow-up email after interview\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.98,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.8,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Resignation email",
+        "model_a_output": "Model A Response: Resignation email",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Resignation email\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.7,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.52,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Client proposal email",
+        "model_a_output": "Model A Response: Client proposal email",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Client proposal email\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.78,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.6,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Reminder email for payment",
+        "model_a_output": "Model A Response: Reminder email for payment",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Reminder email for payment\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.88,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.7,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Networking email",
+        "model_a_output": "Model A Response: Networking email",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Networking email\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.68,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.5,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    },
+    {
+        "test_case": "Thank you email",
+        "model_a_output": "Model A Response: Thank you email",
+        "model_b_output": "Model B Response: \n    Write a highly professional and structured email for the following request:\n    Thank you email\n    \n    Ensure:\n    - Proper subject\n    - Formal tone\n    - Clear structure (intro, body, closing)\n    ",
+        "model_a_scores": {
+            "length_score": 0.66,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        },
+        "model_b_scores": {
+            "length_score": 4.48,
+            "structure_score": 0.5,
+            "clarity_score": 0.5
+        }
+    }
+]

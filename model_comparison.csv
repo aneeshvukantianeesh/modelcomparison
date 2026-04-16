@@ -1,0 +1,11 @@
+test_case,A_length,A_structure,A_clarity,B_length,B_structure,B_clarity
+Write a professional email requesting leave,1.22,0.5,0.5,5.04,0.5,0.5
+Generate a cold email for job application,1.18,0.5,0.5,5,0.5,0.5
+Apology email for missing deadline,1.04,0.5,0.5,4.86,0.5,0.5
+Meeting request email,0.78,0.5,0.5,4.6,0.5,0.5
+Follow-up email after interview,0.98,0.5,0.5,4.8,0.5,0.5
+Resignation email,0.7,0.5,0.5,4.52,0.5,0.5
+Client proposal email,0.78,0.5,0.5,4.6,0.5,0.5
+Reminder email for payment,0.88,0.5,0.5,4.7,0.5,0.5
+Networking email,0.68,0.5,0.5,4.5,0.5,0.5
+Thank you email,0.66,0.5,0.5,4.48,0.5,0.5
